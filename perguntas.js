@@ -1,18 +1,54 @@
 criaCartao(
-    'weak hero class ask',
-    'Porque Yeon Si-Eun e Yong Bin tinham rivalidade?',
-    'A rivalidade entre Yeon Si-eun e Jeon Yeong-bin surgiu porque Yeong-bin se sentiu humilhado ao ser superado por Si-eun em uma competição de matemática.'
-)
-
-criaCartao(
-    'weak hero class ask',
-    'Por que Oh Beom-seok se sentiu intimidado por young-bin após ele falar de sua antiga escola?',
-    'Porque Oh Beom-seok sofria bullying em sua antiga escola, e Young-bin usou isso ao seu favor'
+    'weak hero class',
+    'Quem é o protagonista de Weak Hero Class 1?',
+    'Yeon Si Eun.'
 )
 
 criaCartao(
     'weak hero class',
-    'o que o sun dae é do young bin?',
-    'sun dae é primo de young bin'
+    'Qual é a principal habilidade de Si-eun',
+    'Ele usa inteligência para lutar.'
+)
+
+criaCartao(
+    'weak hero class',
+    'Quem se torna o melhor amigo de Si-eun?',
+    'Ahn Su-ho.'
+)
+
+criaCartao(
+    'weak hero class',
+    'Qual é o tema principal do dorama?',
+    'Bullying escolar.'
+)
+
+criaCartao(
+    'weak hero class',
+    'Qual é o hobby do Si-eun?',
+    'Estudar.'
+)
+
+criaCartao(
+    'weak hero class',
+    'Quem é conhecido por ser forte fisicamente?',
+    'Su-ho.'
+)
+
+criaCartao(
+    'weak hero class',
+    'O que Si-eun usa como arma em lutas?',
+    'Objetos do dia a dia (como caneta ou livro).'
+)
+
+criaCartao(
+    'weak hero class',
+    'Qual é a personalidade do Si-eun?',
+    'Quieto e reservado.'
+)
+
+criaCartao(
+    'weak hero class',
+    'Em que ambiente se passa a maior parte da história?',
+    'Na escola.'
 )
 
